@@ -7,3 +7,5 @@ for i in range(0,5,1):
   turtle.right(72)
 turtle.done()
 ```
+## 結果
+![image](https://user-images.githubusercontent.com/65766065/169756096-852c8d76-2329-478d-ab06-220c239e55be.png)
